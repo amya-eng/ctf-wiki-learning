@@ -12,4 +12,7 @@
 ### 为何要有字节序
 很多人会问，为什么会有字节序，统一用大端序不行吗？答案是，计算机电路先处理低位字节，效率比较高，因为计算都是从低位开始的。所以，计算机的内部处理都是小端字节序。   
 在计算机内部，小端序被广泛应用于现代 CPU 内部存储数据；而在其他场景，比如网络传输和文件存储则使用大端序。   
-## python struct模块的通俗理解（参考https://www.cnblogs.com/tomato0906/articles/4826759.html）   
+## python struct模块的通俗理解 
+（参考https://www.cnblogs.com/tomato0906/articles/4826759.html 
+https://docs.python.org/2/library/struct.html） 
+
