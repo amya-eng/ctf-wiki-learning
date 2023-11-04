@@ -79,8 +79,8 @@ print repr(buf.raw)
 
 print struct.unpack_from('iii', buf, 0) 
 
-#---- result 
-#'/x00/x00/x00/x00/x00/x00/x00/x00/x00/x00/x00/x00' 
-#'/x01/x00/x00/x00/x02/x00/x00/x00/xff/xff/xff/xff' 
-#(1, 2, -1) 
+#---- result  
+#'/x00/x00/x00/x00/x00/x00/x00/x00/x00/x00/x00/x00'   
+#'/x01/x00/x00/x00/x02/x00/x00/x00/xff/xff/xff/xff'   
+#(1, 2, -1)   
 
