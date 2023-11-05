@@ -15,4 +15,6 @@
 ## python struct模块的通俗理解 
 （参考https://www.cnblogs.com/tomato0906/articles/4826759.html 
 https://docs.python.org/2/library/struct.html） 
+# 2023.11.5
+安装010editor(https://blog.csdn.net/NS_ice/article/details/132398846?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522169917049016800222862964%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=169917049016800222862964&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~top_positive~default-1-132398846-null-null.142^v96^pc_search_result_base1&utm_term=010editor%E6%B1%89%E5%8C%96%E7%A0%B4%E8%A7%A3%E7%89%88&spm=1018.2226.3001.4187)  遇到问题“写入注册表失败”，关闭防火墙即可。
 
